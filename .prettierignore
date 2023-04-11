@@ -1,0 +1,9 @@
+dist
+.next
+public
+build
+out
+
+next-env.d.ts
+pnpm-lock.yaml
+package-lock.json
